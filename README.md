@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mubeen Ul Haq</h1>
 <h3 align="center">A passionate Fullstack developer with one year of hands-on experience in the dynamic world of software development. Throughout my journey, I've successfully delivered three industrial-level projects, showcasing my dedication to creating robust and scalable solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeenullhaq&label=Profile%20views&color=0e75b6&style=flat" alt="gauthamrvanjre" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeenullhaq&label=Profile%20views&color=0e75b6&style=flat" alt="mubeenullhaq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauthamrvanjre" alt="gauthamrvanjre" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubeenullhaq" alt="mubeenullhaq" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vanjregautham1" target="blank"><img src="https://img.shields.io/twitter/follow/vanjregautham1?logo=twitter&style=for-the-badge" alt="vanjregautham1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vanjregautham1" target="blank"><img src="https://img.shields.io/twitter/follow/vanjregautham1?logo=twitter&style=for-the-badge" alt="mubeenullhaq" /></a> </p>
 
 - 🔭 I’m currently working on **AI Blog Summarizer**
 
