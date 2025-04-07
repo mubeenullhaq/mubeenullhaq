@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubeen Ul Haq</h1>
 <h3 align="center">A passionate Fullstack developer with one year of hands-on experience in the dynamic world of software development. Throughout my journey, I've successfully delivered three industrial-level projects, showcasing my dedication to creating robust and scalable solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauthamrvanjre&label=Profile%20views&color=0e75b6&style=flat" alt="gauthamrvanjre" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeenullhaq&label=Profile%20views&color=0e75b6&style=flat" alt="gauthamrvanjre" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauthamrvanjre" alt="gauthamrvanjre" /></a> </p>
 
@@ -40,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauthamrvanjre&show_icons=true&locale=en" alt="gauthamrvanjre" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauthamrvanjre&" alt="gauthamrvanjre" /></p>
-
